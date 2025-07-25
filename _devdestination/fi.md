@@ -8,7 +8,7 @@ continent: Europe
 remote_rank: 1
 keywords: finland jobs, finland visa
 author: Pradyumna Das Roy
-image: /assets/img/fi/fi-01.jpg
+image: /assets/img/fi/fi-01.webp
 date: 2025-07-25
 last_modified_at: 2025-07-25
 ---
