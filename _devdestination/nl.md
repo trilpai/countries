@@ -1,12 +1,12 @@
 ---
 layout: country
 title: Netherlands
-description: Windmills, tulips, and innovation
+description: Windmills, tulips, and innovation. Remote jobs in Netherlands. Trilp AI curated info. Indians in Netherlands.
 iso_code: NL
 emoji_flag: 🇳🇱
 continent: Europe
 remote_rank: 5.0
-keywords: netherlands jobs, netherlands visa
+keywords: netherlands jobs, netherlands visa, netherlands remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/nl/nl-01.webp
 date: 2025-07-25

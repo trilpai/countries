@@ -1,12 +1,12 @@
 ---
 layout: country
 title: Ireland
-description: Emerald isle with tech and tales
+description: Emerald isle with tech and tales. Remote jobs in Ireland. Trilp AI curated info. Indians in Ireland.
 iso_code: IE
 emoji_flag: 🇮🇪
 continent: Europe
 remote_rank: 3.0
-keywords: ireland jobs, ireland visa
+keywords: ireland jobs, ireland visa, ireland remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ie/ie-01.webp
 date: 2025-07-25

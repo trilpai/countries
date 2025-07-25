@@ -1,12 +1,12 @@
 ---
 layout: country
 title: Sweden
-description: Innovation, IKEA, and Nordic cool
+description: Innovation, IKEA, and Nordic cool. Remote jobs in Sweden. Trilp AI curated info. Indians in Sweden.
 iso_code: SE
 emoji_flag: 🇸🇪
 continent: Europe
 remote_rank: 4.0
-keywords: sweden jobs, sweden visa
+keywords: sweden jobs, sweden visa, sweden remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/se/se-01.webp
 date: 2025-07-25
