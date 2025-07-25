@@ -5,7 +5,7 @@ description: Cradle of wine and Caucasus culture. Remote jobs in Georgia. Trilp 
 iso_code: GE
 emoji_flag: 🇬🇪
 continent: Europe
-remote_rank: 28.0
+remote_rank: 32.0
 keywords: georgia jobs, georgia visa, georgia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ge/ge-01.webp

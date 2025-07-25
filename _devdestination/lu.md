@@ -5,7 +5,7 @@ description: Europe’s banking powerhouse. Remote jobs in Luxembourg. Trilp AI 
 iso_code: LU
 emoji_flag: 🇱🇺
 continent: Europe
-remote_rank: 26.0
+remote_rank: 27.0
 keywords: luxembourg jobs, luxembourg visa, luxembourg remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/lu/lu-01.webp

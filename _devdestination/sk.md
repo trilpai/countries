@@ -5,7 +5,7 @@ description: Caves, castles, and Tatras charm. Remote jobs in Slovakia. Trilp AI
 iso_code: SK
 emoji_flag: 🇸🇰
 continent: Europe
-remote_rank: 27.0
+remote_rank: 26.0
 keywords: slovakia jobs, slovakia visa, slovakia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/sk/sk-01.webp

@@ -5,7 +5,7 @@ description: Tea, tech, and timeless influence. Remote jobs in UK. Trilp AI cura
 iso_code: GB
 emoji_flag: 🇬🇧
 continent: Europe
-remote_rank: 43.0
+remote_rank: 8.0
 keywords: uk jobs, uk visa, uk remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/gb/gb-01.webp

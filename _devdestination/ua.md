@@ -5,7 +5,7 @@ description: Sunflower fields and code. Remote jobs in Ukraine. Trilp AI curated
 iso_code: UA
 emoji_flag: 🇺🇦
 continent: Europe
-remote_rank: 31.0
+remote_rank: 39.0
 keywords: ukraine jobs, ukraine visa, ukraine remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ua/ua-01.webp

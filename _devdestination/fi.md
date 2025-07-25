@@ -5,7 +5,7 @@ description: Europe’s leading digital nation with talent-friendly pathways. Re
 iso_code: FI
 emoji_flag: 🇫🇮
 continent: Europe
-remote_rank: 1
+remote_rank: 1.0
 keywords: finland jobs, finland visa, finland remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/fi/fi-01.webp

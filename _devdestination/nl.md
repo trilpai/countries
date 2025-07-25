@@ -5,7 +5,7 @@ description: Windmills, tulips, and innovation. Remote jobs in Netherlands. Tril
 iso_code: NL
 emoji_flag: 🇳🇱
 continent: Europe
-remote_rank: 5.0
+remote_rank: 3.0
 keywords: netherlands jobs, netherlands visa, netherlands remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/nl/nl-01.webp

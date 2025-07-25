@@ -5,7 +5,7 @@ description: Land of ancient monasteries. Remote jobs in Armenia. Trilp AI curat
 iso_code: AM
 emoji_flag: 🇦🇲
 continent: Europe
-remote_rank: 30.0
+remote_rank: 34.0
 keywords: armenia jobs, armenia visa, armenia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/am/am-01.webp

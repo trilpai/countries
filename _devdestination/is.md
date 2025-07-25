@@ -5,7 +5,7 @@ description: Land of fire, ice, and elves. Remote jobs in Iceland. Trilp AI cura
 iso_code: IS
 emoji_flag: 🇮🇸
 continent: Europe
-remote_rank: 33.0
+remote_rank: 28.0
 keywords: iceland jobs, iceland visa, iceland remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/is/is-01.webp

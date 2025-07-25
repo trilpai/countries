@@ -5,7 +5,7 @@ description: Adriatic beauty with medieval towns. Remote jobs in Croatia. Trilp 
 iso_code: HR
 emoji_flag: 🇭🇷
 continent: Europe
-remote_rank: 19.0
+remote_rank: 24.0
 keywords: croatia jobs, croatia visa, croatia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/hr/hr-01.webp

@@ -5,7 +5,7 @@ description: Neutrality, chocolates, and mountains. Remote jobs in Switzerland. 
 iso_code: CH
 emoji_flag: 🇨🇭
 continent: Europe
-remote_rank: 7.5
+remote_rank: 12.0
 keywords: switzerland jobs, switzerland visa, switzerland remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ch/ch-01.webp

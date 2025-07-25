@@ -5,7 +5,7 @@ description: Fjords, midnight sun, and oil. Remote jobs in Norway. Trilp AI cura
 iso_code: NO
 emoji_flag: 🇳🇴
 continent: Europe
-remote_rank: 24.0
+remote_rank: 22.0
 keywords: norway jobs, norway visa, norway remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/no/no-01.webp

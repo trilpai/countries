@@ -5,7 +5,7 @@ description: Baltic melodies and Art Nouveau. Remote jobs in Latvia. Trilp AI cu
 iso_code: LV
 emoji_flag: 🇱🇻
 continent: Europe
-remote_rank: 22.0
+remote_rank: 17.0
 keywords: latvia jobs, latvia visa, latvia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/lv/lv-01.webp

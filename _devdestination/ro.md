@@ -5,7 +5,7 @@ description: Castles, forests, and fast internet. Remote jobs in Romania. Trilp 
 iso_code: RO
 emoji_flag: 🇷🇴
 continent: Europe
-remote_rank: 23.0
+remote_rank: 18.0
 keywords: romania jobs, romania visa, romania remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ro/ro-01.webp

@@ -5,7 +5,7 @@ description: Bohemian charm and castles galore. Remote jobs in Czechia. Trilp AI
 iso_code: CZ
 emoji_flag: 🇨🇿
 continent: Europe
-remote_rank: 14.0
+remote_rank: 16.0
 keywords: czechia jobs, czechia visa, czechia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/cz/cz-01.webp

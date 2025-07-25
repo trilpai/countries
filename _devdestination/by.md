@@ -5,7 +5,7 @@ description: Europe’s last dictatorship. Remote jobs in Belarus. Trilp AI cura
 iso_code: BY
 emoji_flag: 🇧🇾
 continent: Europe
-remote_rank: 42.0
+remote_rank: 38.0
 keywords: belarus jobs, belarus visa, belarus remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/by/by-01.webp

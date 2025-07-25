@@ -5,7 +5,7 @@ description: Flamenco, fiesta, and siesta. Remote jobs in Spain. Trilp AI curate
 iso_code: ES
 emoji_flag: 🇪🇸
 continent: Europe
-remote_rank: 10.0
+remote_rank: 13.0
 keywords: spain jobs, spain visa, spain remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/es/es-01.webp

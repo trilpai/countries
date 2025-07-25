@@ -5,7 +5,7 @@ description: Elegance, wine, and revolution. Remote jobs in France. Trilp AI cur
 iso_code: FR
 emoji_flag: 🇫🇷
 continent: Europe
-remote_rank: 11.0
+remote_rank: 14.0
 keywords: france jobs, france visa, france remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/fr/fr-01.webp

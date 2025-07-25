@@ -5,7 +5,7 @@ description: The cradle of Western civilization. Remote jobs in Greece. Trilp AI
 iso_code: GR
 emoji_flag: 🇬🇷
 continent: Europe
-remote_rank: 17.0
+remote_rank: 31.0
 keywords: greece jobs, greece visa, greece remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/gr/gr-01.webp

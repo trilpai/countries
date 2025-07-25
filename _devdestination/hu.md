@@ -5,7 +5,7 @@ description: Thermal baths and paprika spirit. Remote jobs in Hungary. Trilp AI 
 iso_code: HU
 emoji_flag: 🇭🇺
 continent: Europe
-remote_rank: 15.0
+remote_rank: 21.0
 keywords: hungary jobs, hungary visa, hungary remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/hu/hu-01.webp

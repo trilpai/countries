@@ -5,7 +5,7 @@ description: The classical heart of Europe. Remote jobs in Austria. Trilp AI cur
 iso_code: AT
 emoji_flag: 🇦🇹
 continent: Europe
-remote_rank: 12.0
+remote_rank: 11.0
 keywords: austria jobs, austria visa, austria remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/at/at-01.webp

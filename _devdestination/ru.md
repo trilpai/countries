@@ -5,7 +5,7 @@ description: Size, snow, and space legacy. Remote jobs in Russia. Trilp AI curat
 iso_code: RU
 emoji_flag: 🇷🇺
 continent: Europe
-remote_rank: 41.0
+remote_rank: 37.0
 keywords: russia jobs, russia visa, russia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/ru/ru-01.webp

@@ -5,7 +5,7 @@ description: World’s oldest surviving republic. Remote jobs in San Marino. Tri
 iso_code: SM
 emoji_flag: 🇸🇲
 continent: Europe
-remote_rank: 40.0
+remote_rank: 43.0
 keywords: san marino jobs, san marino visa, san marino remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/sm/sm-01.webp

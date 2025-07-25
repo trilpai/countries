@@ -5,7 +5,7 @@ description: Innovation, IKEA, and Nordic cool. Remote jobs in Sweden. Trilp AI 
 iso_code: SE
 emoji_flag: 🇸🇪
 continent: Europe
-remote_rank: 4.0
+remote_rank: 5.0
 keywords: sweden jobs, sweden visa, sweden remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/se/se-01.webp

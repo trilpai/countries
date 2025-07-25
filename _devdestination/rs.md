@@ -5,7 +5,7 @@ description: Balkan spirit and Roman heritage. Remote jobs in Serbia. Trilp AI c
 iso_code: RS
 emoji_flag: 🇷🇸
 continent: Europe
-remote_rank: 29.0
+remote_rank: 35.0
 keywords: serbia jobs, serbia visa, serbia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/rs/rs-01.webp

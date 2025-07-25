@@ -5,7 +5,7 @@ description: Lake Ohrid and ancient empires. Remote jobs in North Macedonia. Tri
 iso_code: MK
 emoji_flag: 🇲🇰
 continent: Europe
-remote_rank: 34.0
+remote_rank: 33.0
 keywords: north macedonia jobs, north macedonia visa, north macedonia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/mk/mk-01.webp

@@ -5,7 +5,7 @@ description: Sunshine and divided island history. Remote jobs in Cyprus. Trilp A
 iso_code: CY
 emoji_flag: 🇨🇾
 continent: Europe
-remote_rank: 32.0
+remote_rank: 30.0
 keywords: cyprus jobs, cyprus visa, cyprus remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/cy/cy-01.webp

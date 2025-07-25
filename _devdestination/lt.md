@@ -5,7 +5,7 @@ description: Laser tech and medieval roots. Remote jobs in Lithuania. Trilp AI c
 iso_code: LT
 emoji_flag: 🇱🇹
 continent: Europe
-remote_rank: 13.0
+remote_rank: 15.0
 keywords: lithuania jobs, lithuania visa, lithuania remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/lt/lt-01.webp

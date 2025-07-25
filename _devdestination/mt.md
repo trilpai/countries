@@ -5,7 +5,7 @@ description: Island fortress of the Mediterranean. Remote jobs in Malta. Trilp A
 iso_code: MT
 emoji_flag: 🇲🇹
 continent: Europe
-remote_rank: 25.0
+remote_rank: 29.0
 keywords: malta jobs, malta visa, malta remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/mt/mt-01.webp

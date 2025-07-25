@@ -5,7 +5,7 @@ description: Green gem between Alps and Adriatic. Remote jobs in Slovenia. Trilp
 iso_code: SI
 emoji_flag: 🇸🇮
 continent: Europe
-remote_rank: 21.0
+remote_rank: 19.0
 keywords: slovenia jobs, slovenia visa, slovenia remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/si/si-01.webp

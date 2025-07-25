@@ -5,7 +5,7 @@ description: Rose valleys and Black Sea shores. Remote jobs in Bulgaria. Trilp A
 iso_code: BG
 emoji_flag: 🇧🇬
 continent: Europe
-remote_rank: 20.0
+remote_rank: 23.0
 keywords: bulgaria jobs, bulgaria visa, bulgaria remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/bg/bg-01.webp

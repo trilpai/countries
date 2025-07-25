@@ -5,7 +5,7 @@ description: Bay of Kotor and Balkan pride. Remote jobs in Montenegro. Trilp AI 
 iso_code: ME
 emoji_flag: 🇲🇪
 continent: Europe
-remote_rank: 37.0
+remote_rank: 40.0
 keywords: montenegro jobs, montenegro visa, montenegro remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/me/me-01.webp

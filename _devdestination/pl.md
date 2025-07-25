@@ -5,7 +5,7 @@ description: Resilience, history, and startups. Remote jobs in Poland. Trilp AI 
 iso_code: PL
 emoji_flag: 🇵🇱
 continent: Europe
-remote_rank: 8.0
+remote_rank: 10.0
 keywords: poland jobs, poland visa, poland remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/pl/pl-01.webp

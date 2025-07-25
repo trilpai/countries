@@ -5,7 +5,7 @@ description: Tiny principality with Alpine charm. Remote jobs in Liechtenstein. 
 iso_code: LI
 emoji_flag: 🇱🇮
 continent: Europe
-remote_rank: 38.0
+remote_rank: 42.0
 keywords: liechtenstein jobs, liechtenstein visa, liechtenstein remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/li/li-01.webp

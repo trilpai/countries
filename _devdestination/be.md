@@ -5,7 +5,7 @@ description: Chocolates, waffles, and EU politics. Remote jobs in Belgium. Trilp
 iso_code: BE
 emoji_flag: 🇧🇪
 continent: Europe
-remote_rank: 18.0
+remote_rank: 20.0
 keywords: belgium jobs, belgium visa, belgium remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/be/be-01.webp

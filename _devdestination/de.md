@@ -5,7 +5,7 @@ description: Engineering excellence and precision. Remote jobs in Germany. Trilp
 iso_code: DE
 emoji_flag: 🇩🇪
 continent: Europe
-remote_rank: 2.0
+remote_rank: 4.0
 keywords: germany jobs, germany visa, germany remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/de/de-01.webp

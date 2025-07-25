@@ -5,7 +5,7 @@ description: Glamour, yachts, and Formula 1. Remote jobs in Monaco. Trilp AI cur
 iso_code: MC
 emoji_flag: 🇲🇨
 continent: Europe
-remote_rank: 35.0
+remote_rank: 44.0
 keywords: monaco jobs, monaco visa, monaco remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/mc/mc-01.webp

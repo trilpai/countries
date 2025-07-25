@@ -5,7 +5,7 @@ description: The Renaissance and Roman legacy. Remote jobs in Italy. Trilp AI cu
 iso_code: IT
 emoji_flag: 🇮🇹
 continent: Europe
-remote_rank: 16.0
+remote_rank: 25.0
 keywords: italy jobs, italy visa, italy remote jobs
 author: Pradyumna Das Roy
 image: /assets/img/it/it-01.webp
